@@ -2,6 +2,8 @@
 Centipede By Amplified Labs that I have modified to sign in after the enrollment process and start ChromeOS updates. 
 Works with Version 58+ of ChromeOS and was modified last on 4/24/19
 
+https://labs.amplifiedit.com/centipede/
+
 # Original ReadMe provided by Amplified Labs
 
 :Author: Amplified_Labs
